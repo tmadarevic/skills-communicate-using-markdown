@@ -13,3 +13,8 @@ Igrao sam se sa uredivanjem ovog filea pomocu headera
 var myVar = "Ovo je neki tekst unutar varijable myVar"
 
 ```
+
+- [ ] Napravio web app
+- [ ] Napravio mobile app
+- [ ] Napravio diplomski
+- [X] pokusavam se pokrenut
